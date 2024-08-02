@@ -1,5 +1,5 @@
 # demo-classroom
 This is my first Git Repository.
 <br>
-Author - Dharmesh Joshi (dharmesh joshi college)
+Author - Dharmesh Joshi (dharmesh college)
 
